@@ -1,8 +1,8 @@
 # UE4 Runtime Mesh Component fork
 
-** Note that this is a fork of [Koderz/RuntimeMeshComponent](https://github.com/Koderz/RuntimeMeshComponent), I only updated it to be compatible with the latest Unreal Engine. **
+Note that this is a fork of [Koderz/RuntimeMeshComponent](https://github.com/Koderz/RuntimeMeshComponent), which I updated to be compatible with the latest Unreal Engine.
 
-As there is no official new version from the developer, I created this version while waiting for them to update the original one.
+As there is no official update from the developer, I created this version while waiting for them to update the original one.
 
 --- Original readme below:
 
