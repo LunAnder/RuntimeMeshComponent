@@ -1,7 +1,7 @@
 {
   "FileVersion": 3,
   "Version": 2,
-  "VersionName": "2.2",
+  "VersionName": "2.3",
   "FriendlyName": "Runtime Mesh Component Update",
   "Description": "A renderable component with utilities for creating and modifying mesh geometry procedurally at runtime. Updated for Unreal Engine up to 4.18",
   "Category": "Rendering",
