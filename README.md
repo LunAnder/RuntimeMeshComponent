@@ -1,3 +1,11 @@
+# UE4 Runtime Mesh Component fork
+
+** Note that this is a fork of [Koderz/RuntimeMeshComponent](https://github.com/Koderz/RuntimeMeshComponent), I only updated it to be compatible with the latest Unreal Engine. **
+
+As there is no official new version from the developer, I created this version while waiting for them to update the original one.
+
+--- Original readme below:
+
 # UE4 Runtime Mesh Component
 
 **Branch with Slicer Support can be found here https://github.com/Koderz/UnrealEngine/tree/RMC_With_Slicer**
